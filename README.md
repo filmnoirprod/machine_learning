@@ -3,6 +3,6 @@ These projects were developped as part of the 9th semester course, Neural Networ
 
 
 ## Exercise 1
-At this exercise we were given two datasets. A small and a big one. We had to implement different classification algorithms , and maximize their accuracy using cross-validation and the best pipeline for each classifier. The classifiers we tested are : dummy classifier , kNN classifier , Gaussian Naive Bayes , MultiLayer Perceptron. We also test different pipelines in order to achieve the best machine learning model.
+At this exercise we were given two datasets. A small and a big one. We had to implement different classification algorithms , and maximize their accuracy using cross-validation and the best pipeline for each classifier. The classifiers we tested are : dummy classifier , kNN classifier , Gaussian Naive Bayes , MultiLayer Perceptron. We also tested different pipelines in order to achieve the best machine learning model.
 
 ## Exercise 2
